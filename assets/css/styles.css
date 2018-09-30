@@ -284,6 +284,7 @@ header nav li {
 }
 
 .contact form .btn {
+    font: normal 18px "Open Sans", sans-serif;
     padding: 18px 42px;
 }
 
